@@ -19,9 +19,8 @@
 	    <link rel="shortcut icon" href="static/logo2.jpg">
 
 	<title>Discobots 2587 | Splash</title>
-<head>
     <base target="_blank">
-</head>
+
 </head>
 
 <body class="mdl-color--blue-A700">
