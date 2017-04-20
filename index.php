@@ -101,7 +101,7 @@
 					<li>
 						<span></span>
 
-						<h3>The Discobots<br/><font size ="5">FIRST Robotics Team 2587<br/>Carnegie Vanguard High School, Houston, Texas</font></h3>
+						<h3>The Discobots<br/><font size ="5">FIRST Robotics Team 2587<br/>Carnegie Vanguard & Lamar High School, Houston, Texas</font></h3>
 
 					</li>
 					<li>
@@ -152,9 +152,9 @@
 						z-index: 0;
 						-webkit-backface-visibility: hidden;
 						backface-visibility: hidden;
-						-webkit-animation: imageAnimation 36s linear infinite 0s;
-						-moz-animation: imageAnimation 36s linear infinite 0s;
-						animation: imageAnimation 36s linear infinite 0s;
+						-webkit-animation: imageAnimation 42s linear infinite 0s;
+						-moz-animation: imageAnimation 42s linear infinite 0s;
+						animation: imageAnimation 42s linear infinite 0s;
 					}
 					
 					.slideshow li h3 {
@@ -170,9 +170,9 @@
 						font-family: 'Josefin Sans', sans-serif;
 						text-transform: uppercase;
 						color: #fff;
-						-webkit-animation: titleAnimation 36s linear 1 0s;
-						-moz-animation: titleAnimation 36s linear 1 0s;
-						animation: titleAnimation 36s linear 1 0s;
+						-webkit-animation: titleAnimation 42s linear infinite 0s;
+						-moz-animation: titleAnimation 42s linear infinite 0s;
+						animation: titleAnimation 42s linear infinite 0s;
 					}
 					
 					@media only screen and (min-width: 768px) {
