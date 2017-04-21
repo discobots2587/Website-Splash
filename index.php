@@ -152,9 +152,9 @@
 						z-index: 0;
 						-webkit-backface-visibility: hidden;
 						backface-visibility: hidden;
-						-webkit-animation: imageAnimation 42s linear infinite 0s;
-						-moz-animation: imageAnimation 42s linear infinite 0s;
-						animation: imageAnimation 42s linear infinite 0s;
+						-webkit-animation: imageAnimation 48s linear infinite 0s;
+						-moz-animation: imageAnimation 48s linear infinite 0s;
+						animation: imageAnimation 48s linear infinite 0s;
 					}
 					
 					.slideshow li h3 {
@@ -170,9 +170,9 @@
 						font-family: 'Josefin Sans', sans-serif;
 						text-transform: uppercase;
 						color: #fff;
-						-webkit-animation: titleAnimation 42s linear infinite 0s;
-						-moz-animation: titleAnimation 42s linear infinite 0s;
-						animation: titleAnimation 42s linear infinite 0s;
+						-webkit-animation: titleAnimation 48s linear infinite 0s;
+						-moz-animation: titleAnimation 48s linear infinite 0s;
+						animation: titleAnimation 48s linear infinite 0s;
 					}
 					
 					@media only screen and (min-width: 768px) {
@@ -200,14 +200,14 @@
 					}
 					
 					.slideshow li:nth-child(3) span {
-						background-image: url(static/image1.jpg);
+						background-image: url(static/5Q4A0102.jpg);
 						-webkit-animation-delay: 12s;
 						-moz-animation-delay: 12s;
 						animation-delay: 12s;
 					}
 					
 					.slideshow li:nth-child(4) span {
-						background-image: url(static/image3.jpg);
+						background-image: url(static/image1.jpg);
 						-webkit-animation-delay: 18s;
 						-moz-animation-delay: 18s;
 						animation-delay: 18s;
@@ -227,10 +227,17 @@
 						animation-delay: 30s;
 					}
 										.slideshow li:nth-child(7) span {
-						background-image: url(static/image6.jpg);
+						background-image: url(static/image3.jpg);
 						-webkit-animation-delay: 36s;
 						-moz-animation-delay: 36s;
 						animation-delay: 36s;
+					}
+					
+											.slideshow li:nth-child(8) span {
+						background-image: url(static/image6.jpg);
+						-webkit-animation-delay: 42s;
+						-moz-animation-delay: 42s;
+						animation-delay: 42s;
 					}
 					
 					@-webkit-keyframes imageAnimation {
