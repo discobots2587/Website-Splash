@@ -66,7 +66,7 @@
 
 				<!-- Tabs -->
 		<div class="mdl-grid">
-			<div class="mdl-layout--large-screen-only mdl-color--primary-dark mdl-shadow--4dp mdl-js-ripple-effect" style="max-height: 50%">
+			<div class="mdl-layout--large-screen-only mdl-color--primary-dark mdl-shadow--4dp mdl-js-ripple-effect" style="max-height: 100%">
 				<a target="_blank" href="http://2017.discobots.org/" class="mdl-tabs__tab mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey ">2017</a>
 				<a target="_blank" href="http://2016.discobots.org/" class="mdl-tabs__tab mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey ">2016</a>
 				<a target="_blank" href="http://2015.discobots.org/" class="mdl-tabs__tab mdl-button mdl-js-button mdl-js-ripple-effect mdl-color-text--grey ">2015</a>
